@@ -1,0 +1,19 @@
+.fa-th-large{
+    color: #A6A3A3;
+}
+.fa-th-list{
+    color: #A6A3A3;
+}
+.active{
+  color:#56ccf2;
+}
+
+.nav{
+    width: 100%;
+    text-align: center;
+}
+.item{
+   height: 35px;
+   padding:5px;
+   margin: 7px;
+}
